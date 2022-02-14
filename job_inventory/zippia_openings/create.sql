@@ -1,4 +1,4 @@
-CREATE TABLE job_inventory.zippia_openigns (
+CREATE TABLE job_inventory.zippia_openings (
     external_id         STRING,
     title               STRING,
     parent_title        STRING,
